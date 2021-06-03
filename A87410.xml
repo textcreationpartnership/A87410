@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull nevves from the King, being a perfect relation of the proceedings of the Kings Majesty with the Commissioners, and their advancing from Durham, towards the city of Yorke, and so towards London. Also, the Scots salutation to the English convoy, upon their departure from England, and the placing of garrisons in Newcastle and Tinmouth Castle by Major General Skippon. Together, with the number of ordnance left therein, and the advance of the Scottish horse into France. Appointed to be printed, and published according to order of Parliament. Feb. 5.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87410</idno><idno type="EEBO-CITATION">99861855</idno>
+  <idno type="VID">160158</idno>
+  <idno type="EEBO-PROQUEST">2240955179</idno>
+  
+            <idno type="STC">Wing J1146</idno>
+            <idno type="STC">Thomason E373_17</idno>
+            <idno type="STC">ESTC R201331</idno>
+            <idno type="PROQUEST">99861855</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861855e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160158)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E373[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull nevves from the King, being a perfect relation of the proceedings of the Kings Majesty with the Commissioners, and their advancing from Durham, towards the city of Yorke, and so towards London. Also, the Scots salutation to the English convoy, upon their departure from England, and the placing of garrisons in Newcastle and Tinmouth Castle by Major General Skippon. Together, with the number of ordnance left therein, and the advance of the Scottish horse into France. Appointed to be printed, and published according to order of Parliament. Feb. 5.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Elizabeth Alsop,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="personal_name">Skippon, Philip, d. 1660 --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160158:1"/>
+            <p> JOYFVLL NEVVES FROM THE KING, BEING A perfect Relation of the proceedings of the Kings Majesty with the Commissioners, and their advancing from <hi>Durham,</hi> towards the City of <hi>Yorke,</hi> and so towards <hi>London.</hi>
+            </p>
+            <p>Also, the Scots Salutation to the English Convoy, upon their departure from <hi>England,</hi> and the placing of Garrisons in <hi>Newcastle</hi> and <hi>Tinmouth</hi> Castle by Major General <hi>Skippon.</hi>
+            </p>
+            <p>Together, with the number of Ordnance left therein, and the advance of the Scottish Horse into <hi>France.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>APpointed to be printed, and published ac<g ref="char:EOLhyphen"/>cording to</hi> Order of Parliament. <hi>Feb.</hi> 5.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Elizabeth Alsop,</hi> 1646.</p>
+            <pb facs="tcp:160158:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160158:2"/>
+            <head>A TRVE RELATION OF His Majesties advance from the towne of <hi>Newcastle,</hi> towards the City of <hi>York, Feb.</hi> 4. 1647.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>I Have received your last Letter, and the inclosed Papers, intimating the procee<g ref="char:EOLhyphen"/>dings of the Honourable Houses of Parlia<g ref="char:EOLhyphen"/>ment, in the businesse of Church-Govern<g ref="char:EOLhyphen"/>mene, and regulating of abuses that are a<g ref="char:EOLhyphen"/>misse
+<pb facs="tcp:160158:3"/> in State and Common-wealth; there<g ref="char:EOLhyphen"/>fore, to return and exchange friendship and amity, I shall (briefly) represent you with these ensuing lines.</p>
+            <p>Upon Satturday last the Kings Maiesty were delivered up to the Earl of Pembroke the Earle of Denbigh, the Lord Mountague, and the rest of the English Commissioners, who received him with much alacrity and cheerfulnesse, and (indeed) in such a humble and loyall manner, that his Majesty began to expresse himself with much love and ami<g ref="char:EOLhyphen"/>ty, and cheerfull; for, such was the gallant deportment of these renowned Patriots, to their Liege Soveraign; that at the reception of his Maiesty, all the town were filled with acclamations of joy, and much tryumph throughout all the adjacent parts.</p>
+            <p>And upon Tuesday last, the King and the Commissioners advanced from Newcastle to Durham, accompanied with many brave gallants.</p>
+            <p>His Maiesty saith, that he approves of his Journey, and goes freely, being willing to adhere to his great Councell, for the speedy
+<pb facs="tcp:160158:3"/> curing of the old festered Sores within His Dominions.</p>
+            <p>It is supposed his Maiesty will be at York by Fryday next, and at Holmby by Fryday following.</p>
+            <p>The Gentry of Yorkeshire are making great preparations for the welcomming of the King and the Commissioners.</p>
+            <p>Major Gen. Skippon hath re-possessed him<g ref="char:EOLhyphen"/>self of the Garrisons of Newcastle and Tin<g ref="char:EOLhyphen"/>mouth, and hath placed Garrisons in each, there was left in Newcastle about twenty piece of Ordnance (which formerly belonged to the Earle of Newcastle.) And in Tin<g ref="char:EOLhyphen"/>mouth Castle near upon eighteen gallant pie<g ref="char:EOLhyphen"/>ces, all mounted: the Scots Commissioners are gone from hence, and a happy brotherly parting betwixr the souldiers of each King<g ref="char:EOLhyphen"/>domes, the bonny-Scot tossing up their blew Bonnets as they marched by the English Con<g ref="char:EOLhyphen"/>voy. Col. Murrey hath shipped his Regiment for France to attend the Kings person. Di<g ref="char:EOLhyphen"/>vers of their horse are also to be sent over, the rest to goe against the Gourdeons in the North. For further particulars, <hi>I</hi> shall referte pou to the ensuing Letters.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:160158:4"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>MAjor General Skippon set out of Northaller<g ref="char:EOLhyphen"/>ton on VVednesday last: on Satturday next at furthest we expect him here at Newcastle Vpon his entrance into Gateside, on which he first marcheth in, the last of the Scots, who are five hundred left to keep Newcastle till he comes, march away▪ &amp; then he takes possession of all.</p>
+                  <p>This day the Scots have appointed their Head<g ref="char:EOLhyphen"/>quarters at Morpith, the wayes are thrown downe and levelled for them.</p>
+                  <p>And they haue appointed their Generall Randez<g ref="char:EOLhyphen"/>vouses, the time I know not, but the place is neer Bar<g ref="char:EOLhyphen"/>wick. But I believe, and so far as I can learn it is so, that this generall Randezvouses is only of the Scots Infan<g ref="char:EOLhyphen"/>try.</p>
+                  <p>They have multiplyed their horse to a very conside<g ref="char:EOLhyphen"/>rable number: the common bruit is, that they have eight thousand horse, The Scotch Officers behave themselves very inoffensively, yet some of them lay taxes at their farewell. As for the common souldiers they have such warme quarter, that I believe they goe very unwillingly.</p>
+                  <p>The first hundred thousand pound which was paid at Northallerton, is come to the Scotch Army, &amp; now in dividing amongst them. The foot Captains are said to have somewhat above fifty pound a piece▪ and so the other Officers proportionably. The Captaines of horse haue an hundred pounds a piece, double the pro<g ref="char:EOLhyphen"/>portion of the Foot,</p>
+                  <p>The latter hundred thousand pound set forth from Northallerton yesterday, and will be endeavoured to be here by Fryday if it may be,</p>
+                  <pb facs="tcp:160158:4"/>
+                  <p> The Kings Majesty hath resolved, that he will goe with the Commissioners to Holmsby, and hath ap<g ref="char:EOLhyphen"/>pointed Wednesday next to be the day that his Ma<g ref="char:EOLhyphen"/>jesty will set out from hence. Wednesday night his Majesty intends to be at Durham, which hath much revived us.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Newcastle</hi>
+                        <date>
+                           <hi>Ian.</hi> 28.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>In the next place I shall give you the Copy of ano<g ref="char:EOLhyphen"/>ther letter, which followeth in these words:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>WEE have payd the first 100000. <hi>l.</hi> at this Town, and the Scots received it with no greater convoy, then of fourteen Horse. This day we received the Townes of Hartlepoole and Stockton, wherein the Scots had Garisons, and on Saturday next, the whole Scots forces will be over Tyne, and Newcastle, and the Castle of Tinmouth will that day be possessed by us, and I am confident the Scots wil fairly compound with us in all other things. The Malignant party in Scotland cannot prevaile, so the King is sur<g ref="char:EOLhyphen"/>prised and mistaken in his designe. But since the Scottish Parliament holds right▪ they have no opportunity to shew themselves for the King, though many be sufficiently malignant, and hugely vitious.</p>
+                  <closer>
+                     <dateline>Northallerton <date>Ian. 26. 1646.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:160158:5"/>
+            <p>
+               <hi>By another letter from Newcastle it was adverti<g ref="char:EOLhyphen"/>sed, that there was great acclamations of joy, for the good agreement betweene the Scots Commissioners and ours; as also, that his Majesty hath freely consent<g ref="char:EOLhyphen"/>ed to come with our Commissioners to Holmsby house; but saith some of the letters, He arnestly desi<g ref="char:EOLhyphen"/>reth to come to some of his houses neer London: but I shall not further inlarge my selfe out of the various writing from severall hands; but referre you to the en<g ref="char:EOLhyphen"/>suing Postscript.</hi>
+            </p>
+            <closer/>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>UPon the close of these Papers, here arri<g ref="char:EOLhyphen"/>ved a Messenger, intimating the Kings desire to go neer London, and doth earnestly endeavour to bring the same to maturity.</p>
+               <closer>
+                  <dateline>
+                     <hi>Newcastle</hi>
+                     <date>
+                        <hi>Jan.</hi> 30. 1646.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
